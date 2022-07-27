@@ -35,3 +35,5 @@ In the shape of an "L" on her forehead
 
 Just put ** before the text you need to emphasize, enter the text without space and put ** in the end, also without a space
 
+*You can also have italics in Markdown*
+
