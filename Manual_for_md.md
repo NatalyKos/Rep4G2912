@@ -8,3 +8,5 @@ Just put # in the beginning of the sentence, then leave a space, and then enter 
 
 Just put ## in the beginning, then leave a space, and enter your text
 
+You should always leave a blank line between paragraphs
+
