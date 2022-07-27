@@ -57,4 +57,6 @@ Write in ***, then the text without a space, and then *** again
 
 > Books are good
 
+To enter a quote, write in >, then a space, then the quote itself
+
 
