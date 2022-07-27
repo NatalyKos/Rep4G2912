@@ -39,3 +39,9 @@ Just put ** before the text you need to emphasize, enter the text without space 
 
 Put * before the text you need to italicize, enter the text without space and put * in the end, also without a space
 
+Suppose you want to add a list of items in your text:
+
+* a peach
+* a pear 
+* and a polar bear
+
