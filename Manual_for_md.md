@@ -45,3 +45,4 @@ Suppose you want to add a list of items in your text:
 * a pear 
 * and a polar bear
 
+Just put *, then hit the space and enter the text
