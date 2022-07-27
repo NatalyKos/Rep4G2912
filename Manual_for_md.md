@@ -17,3 +17,17 @@ She was looking kind of dumb
 With her finger and her thumb
 In the shape of an "L" on her forehead
 
+And this is what the text looks like with blank lines:
+
+Somebody once told me
+
+The world is gonna roll me
+
+I ain't the sharpest tool in the shed
+
+She was looking kind of dumb
+
+With her finger and her thumb
+
+In the shape of an "L" on her forehead
+
