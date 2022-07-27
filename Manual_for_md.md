@@ -10,3 +10,10 @@ Just put ## in the beginning, then leave a space, and enter your text
 
 You should always leave a blank line between paragraphs
 
+Otherwise it will look like this: Somebody once told me
+The world is gonna roll me
+I ain't the sharpest tool in the shed
+She was looking kind of dumb
+With her finger and her thumb
+In the shape of an "L" on her forehead
+
