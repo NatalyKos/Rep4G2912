@@ -6,3 +6,5 @@ Just put # in the beginning of the sentence, then leave a space, and then enter 
 
 ## This is a smaller head text. How did this happen?
 
+Just put ## in the beginning, then leave a space, and enter your text
+
