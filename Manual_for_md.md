@@ -61,6 +61,5 @@ To enter a quote, write in >, then a space, then the quote itself
 
 $Look$ $what$ $I$ $found!$ $A$ $cute$ $font!$
 
-
-
+You need to put $ before and after every single word you need to write with a cute font, without space
 
