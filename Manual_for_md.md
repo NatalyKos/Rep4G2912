@@ -51,3 +51,6 @@ Just put *, then hit the space and enter the text
 
 If you write in *** and click Enter, you will get a horizontal line
 
+***Your text can be both italicized and bold***
+
+
