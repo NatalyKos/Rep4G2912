@@ -87,3 +87,5 @@ Change on text_formatting branch
 
 To make the text _italicized_ we can use _(without space) in front of and in the end of the text
 
+_The text can be italicized **and bold** at the same time_
+
