@@ -92,6 +92,8 @@ _The text can be italicized **and bold** at the same time_
 To add an image in the text you need to add 
 ![Head of Binnong](ifgrf.jpg)
 
+To emphasize non-numerated list use *
+
 
 
 
