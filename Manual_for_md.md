@@ -89,3 +89,10 @@ To make the text _italicized_ we can use _(without space) in front of and in the
 
 _The text can be italicized **and bold** at the same time_
 
+To add an image in the text you need to add 
+![Head of Binnong](ifgrf.jpg)
+
+
+
+
+
