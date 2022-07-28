@@ -69,6 +69,12 @@ This is a new branch - text_formatting
 
 This is a third branch - lists
 
+
+
+hello again
+
+Change on text_formatting branch
+
 To add non-numerated lists use *, a space and then the text
 
 * Element 1
@@ -80,6 +86,3 @@ To add numerated lists you need to add a number and dot, then the text
 1. Element 1
 
 2. Element 2
-
-hello again
-
