@@ -105,11 +105,12 @@ To add an image in the text you need to add
 
 To emphasize non-numerated list use *
 
-## To-do list for Thursday
+## To-do list for Friday
 
-1. Sort out the original shipping docs scattered in the office
-2. Learn the freight rates and container fees of two shipping companies
-3. Make a decision, which company to use
+1. Bike for 40 min
+2. Check the label designs from our designer and the Chinese designers
+3. Go to the hookah place
+4. Do not get wasted
 
 
 
