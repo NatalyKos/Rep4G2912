@@ -105,7 +105,11 @@ To add an image in the text you need to add
 
 To emphasize non-numerated list use *
 
+## To-do list for Monday
 
+1. Update the arrival information for all the cargo at sea
+2. Sign the contract with the new shipper
+3. Check on the boss to pay for the pending invoices
 
 
 
