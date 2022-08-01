@@ -105,11 +105,12 @@ To add an image in the text you need to add
 
 To emphasize non-numerated list use *
 
-## To-do list for Tuesday
+## To-do list for Wednesday
 
-1. Ensure that the cargo arrived to the warehouse in Barnaul
-2. Receive (and correct, if needed) a new Invoice from FTD
-3. Send the correct invoice to the boss
+1. Apply for a new Import License for glyphosate 687
+2. Read Born to bleed
+3. Go to gym
+4. Do the IT homework
 
 
 
