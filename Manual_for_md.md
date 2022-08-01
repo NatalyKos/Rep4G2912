@@ -105,7 +105,6 @@ To add an image in the text you need to add
 
 To emphasize non-numerated list use *
 
-## To-do list for Friday
 
 1. Bike for 40 min
 2. Check the label designs from our designer and the Chinese designers
@@ -119,7 +118,7 @@ To emphasize non-numerated list use *
 2. Sign the contract with the new shipper
 3. Check on the boss to pay for the pending invoices
 
-<<<<<<< HEAD
+
 ## To-do list for Tuesday
 
 1. Ensure that the cargo arrived to the warehouse in Barnaul
@@ -132,5 +131,15 @@ To emphasize non-numerated list use *
 1. Buy a present for Alina
 2. Do the IT homework
 3. Go to the gym
+
+
+
+
+## To-do list for Friday
+
+1. Bike for 40 min
+2. Check the label designs from our designer and the Chinese designers
+3. Go to the hookah place
+4. Do not get wasted
 
 
