@@ -105,12 +105,7 @@ To add an image in the text you need to add
 
 To emphasize non-numerated list use *
 
-## To-do list for Friday
 
-1. Bike for 40 min
-2. Check the label designs from our designer and the Chinese designers
-3. Go to the hookah place
-4. Do not get wasted
 
 
 ## To-do list for Monday
@@ -118,4 +113,17 @@ To emphasize non-numerated list use *
 1. Update the arrival information for all the cargo at sea
 2. Sign the contract with the new shipper
 3. Check on the boss to pay for the pending invoices
+
+## To-do list for Tuesday
+
+1. Ensure that the cargo arrived to the warehouse in Barnaul
+2. Receive (and correct, if needed) a new Invoice from FTD
+3. Send the correct invoice to the boss
+
+## To-do list for Friday
+
+1. Bike for 40 min
+2. Check the label designs from our designer and the Chinese designers
+3. Go to the hookah place
+4. Do not get wasted
 
