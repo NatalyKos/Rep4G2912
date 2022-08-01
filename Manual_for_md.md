@@ -106,11 +106,6 @@ To add an image in the text you need to add
 To emphasize non-numerated list use *
 
 
-1. Bike for 40 min
-2. Check the label designs from our designer and the Chinese designers
-3. Go to the hookah place
-4. Do not get wasted
-
 
 ## To-do list for Monday
 
