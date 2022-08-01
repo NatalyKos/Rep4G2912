@@ -111,6 +111,10 @@ To emphasize non-numerated list use *
 2. Receive (and correct, if needed) a new Invoice from FTD
 3. Send the correct invoice to the boss
 
+## To-do list for Tuesday
 
+1. Ensure that the cargo arrived to the warehouse in Barnaul
+2. Receive (and correct, if needed) a new Invoice from FTD
+3. Send the correct invoice to the boss
 
 
