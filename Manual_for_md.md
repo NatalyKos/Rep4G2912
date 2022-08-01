@@ -119,3 +119,11 @@ To emphasize non-numerated list use *
 2. Sign the contract with the new shipper
 3. Check on the boss to pay for the pending invoices
 
+
+
+
+## To-do list for Monday
+
+1. Buy a present for Alina
+2. Do the IT homework
+3. Go to the gym
